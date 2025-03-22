@@ -1,4 +1,3 @@
-
 # Titanic Survival Prediction
 A machine learning project that predicts the survival of Titanic passengers based on relevant features using Python and various ML models.
 
